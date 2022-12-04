@@ -111,7 +111,7 @@ input:-moz-placeholder {
 }
 
 body {
-    background-image: url(../img/intro.jpg);
+    background-image: url(img/intro.jpg);
     /* backdrop-filter: blur(10px); */
 
 }
